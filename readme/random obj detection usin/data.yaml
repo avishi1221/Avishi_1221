@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['cones-barricades-ramps']
+
+roboflow:
+  workspace: avishi
+  project: object-detection-2ay6l
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/avishi/object-detection-2ay6l/dataset/1
