@@ -1,0 +1,19 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['0 cone']
+
+roboflow:
+  workspace: rcx-2022
+  project: data-augmentaded-cone-dataset
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/rcx-2022/data-augmentaded-cone-dataset/dataset/1
+train: C:/Users/Admin/Desktop/other try cones v5/Data Augmentaded - Cone dataset.v1i.yolov5pytorch/images/train
+val: C:/Users/Admin/Desktop/other try cones v5/Data Augmentaded - Cone dataset.v1i.yolov5pytorch/images/val
+test: C:/Users/Admin/Desktop/other try cones v5/Data Augmentaded - Cone dataset.v1i.yolov5pytorch/images/test  # optional
+
+nc: 2  # number of classes
+names: ['class1', 'class2']  # class names
