@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: custom-math-lib
+Version: 0.1
+Summary: A custom math library for AI, cryptography, and matrix algebra
+Home-page: https://github.com/yourusername/custom_math_lib
+Author: Your Name
+License: MIT
+Description: ECHO is on.
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

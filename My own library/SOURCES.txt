@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+custom_math_lib/__init__.py
+custom_math_lib/ai_math.py
+custom_math_lib/crypto.py
+custom_math_lib/matrix.py
+custom_math_lib.egg-info/PKG-INFO
+custom_math_lib.egg-info/SOURCES.txt
+custom_math_lib.egg-info/dependency_links.txt
+custom_math_lib.egg-info/top_level.txt
